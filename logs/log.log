@@ -1,0 +1,35 @@
+[20:43:36] [INFO    ] assistant: Loaded Skill 'Skill_8ball' from F:\github stuff\friday\skills\active\Skill_8ball\main.py
+[20:43:36] [INFO    ] assistant: Loaded Skill 'Skill_CoinToss' from F:\github stuff\friday\skills\active\Skill_CoinToss\main.py
+[20:43:36] [INFO    ] assistant: Loaded Skill 'Skill_DateTime' from F:\github stuff\friday\skills\active\Skill_DateTime\main.py
+[20:43:36] [INFO    ] assistant: Loaded Skill 'Skill_RollDice' from F:\github stuff\friday\skills\active\Skill_RollDice\main.py
+[20:43:36] [INFO    ] assistant: Assistant Initialized
+[20:43:42] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_8ball: 0% Confidence
+[20:43:42] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_CoinToss: 100.0% Confidence
+[20:43:42] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_DateTime: 0% Confidence
+[20:43:42] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_RollDice: 0% Confidence
+[20:43:42] [INFO    ] assistant: User: Flip a coin
+[20:43:42] [INFO    ] assistant: Friday: I threw a coin and its tails
+[20:43:45] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_8ball: 100.0% Confidence
+[20:43:45] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_CoinToss: 0% Confidence
+[20:43:45] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_DateTime: 0% Confidence
+[20:43:45] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_RollDice: 0% Confidence
+[20:43:45] [INFO    ] assistant: User: 8ball
+[20:43:45] [INFO    ] assistant: Friday: Magic 8-Ball says, "It is certain"
+[20:43:59] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_8ball: 0% Confidence
+[20:43:59] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_CoinToss: 0% Confidence
+[20:43:59] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_DateTime: 50.0% Confidence
+[20:43:59] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_RollDice: 0% Confidence
+[20:43:59] [INFO    ] assistant: User: Date/Time
+[20:43:59] [INFO    ] assistant: Friday: It is Tuesday, January 17th, 2023
+[20:44:10] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_8ball: 0% Confidence
+[20:44:10] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_CoinToss: 0% Confidence
+[20:44:10] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_DateTime: 0% Confidence
+[20:44:10] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_RollDice: 67.0% Confidence
+[20:44:10] [INFO    ] assistant: User: Dice Roll
+[20:44:10] [INFO    ] assistant: Friday: I got 1
+[20:45:17] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_8ball: 0% Confidence
+[20:45:17] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_CoinToss: 100.0% Confidence
+[20:45:17] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_DateTime: 0% Confidence
+[20:45:17] [INFO    ] assistant: 	[SKILL ACTIVATION] Skill_RollDice: 0% Confidence
+[20:45:17] [INFO    ] assistant: User: Can you not flip a coin?
+[20:45:17] [INFO    ] assistant: Friday: I got heads
